@@ -7,7 +7,7 @@ Frontend developer
 I am a frontend developer who loves react
 
 * 🌍  I'm based in Manila, Philippines
-* ✉️  You can contact me at [dan.noble2@outlook.com](mailto:dan.noble2@outlook.com)
+* ✉️  You can contact me at danmartin.noble@outlook.com
 * 🧠  I'm learning solidity, react and javascript.
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I'm persistent.
